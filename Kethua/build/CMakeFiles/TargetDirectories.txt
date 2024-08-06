@@ -1,0 +1,3 @@
+/home/aaron/CppOOP/Kethua/build/CMakeFiles/myprog.dir
+/home/aaron/CppOOP/Kethua/build/CMakeFiles/edit_cache.dir
+/home/aaron/CppOOP/Kethua/build/CMakeFiles/rebuild_cache.dir
